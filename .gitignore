@@ -1,0 +1,36 @@
+*.iml
+.gradle
+/local.properties
+/.idea/caches
+/.idea/libraries
+/.idea/modules.xml
+/.idea/workspace.xml
+/.idea/navEditor.xml
+/.idea/assetWizardSettings.xml
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+.cxx
+local.properties
+
+# Project exclude paths
+/.android/
+/.idlerc/
+/.VirtualBox/
+/.vscode/
+/AndroidStudioProjects/
+/app/
+/AppData/
+/Blood_bank/
+/Contacts/
+/Downloads/
+/Favorites/
+/gradle/
+/Links/
+/Music/
+/OneDrive/
+/Saved Games/
+/Searches/
+/Videos/
+/VirtualBox VMs/
